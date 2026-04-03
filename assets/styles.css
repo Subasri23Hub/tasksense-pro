@@ -1,0 +1,292 @@
+/* TaskSense Pro — Custom CSS */
+
+/* ── Fonts & Base ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* ── Hide default Streamlit chrome ────────────────────────── */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* ── App background ──────────────────────────────────────── */
+.stApp {
+    background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #0f0f1a 100%);
+    color: #e2e8f0;
+}
+
+/* ── Main container ──────────────────────────────────────── */
+.main .block-container {
+    padding: 2rem 2.5rem;
+    max-width: 1200px;
+}
+
+/* ── Title ───────────────────────────────────────────────── */
+.app-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.2rem;
+    letter-spacing: -0.5px;
+}
+
+.app-subtitle {
+    font-size: 1rem;
+    color: #94a3b8;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+/* ── Summary Cards ───────────────────────────────────────── */
+.metric-card {
+    background: linear-gradient(135deg, #1e1e3a 0%, #252545 100%);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    padding: 1.4rem 1.6rem;
+    text-align: center;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin-bottom: 1rem;
+}
+.metric-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(102,126,234,0.2);
+}
+.metric-value {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #a78bfa;
+    line-height: 1;
+    margin-bottom: 0.3rem;
+}
+.metric-label {
+    font-size: 0.8rem;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+/* ── Task Cards ──────────────────────────────────────────── */
+.task-card {
+    background: linear-gradient(135deg, #1e1e3a 0%, #252545 100%);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 14px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 0.8rem;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+    position: relative;
+    overflow: hidden;
+}
+.task-card:hover {
+    transform: translateX(4px);
+    border-color: rgba(167,139,250,0.4);
+}
+.task-card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #e2e8f0;
+    margin-bottom: 0.5rem;
+}
+.task-card-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+.task-card-reason {
+    font-size: 0.8rem;
+    color: #94a3b8;
+    font-style: italic;
+}
+
+/* ── Badges ──────────────────────────────────────────────── */
+.badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+.badge-high { background: rgba(255,75,75,0.15); color: #FF4B4B; border: 1px solid rgba(255,75,75,0.3); }
+.badge-medium { background: rgba(255,165,0,0.15); color: #FFA500; border: 1px solid rgba(255,165,0,0.3); }
+.badge-low { background: rgba(33,197,93,0.15); color: #21C55D; border: 1px solid rgba(33,197,93,0.3); }
+.badge-donow { background: rgba(255,75,75,0.15); color: #FF4B4B; border: 1px solid rgba(255,75,75,0.3); }
+.badge-dotoday { background: rgba(255,140,0,0.15); color: #FF8C00; border: 1px solid rgba(255,140,0,0.3); }
+.badge-soon { background: rgba(59,130,246,0.15); color: #3B82F6; border: 1px solid rgba(59,130,246,0.3); }
+.badge-postpone { background: rgba(107,114,128,0.15); color: #9CA3AF; border: 1px solid rgba(107,114,128,0.3); }
+.badge-delegate { background: rgba(139,92,246,0.15); color: #8B5CF6; border: 1px solid rgba(139,92,246,0.3); }
+
+/* ── Section Headers ─────────────────────────────────────── */
+.section-header {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #e2e8f0;
+    margin: 1.5rem 0 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid rgba(167,139,250,0.3);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* ── Plan Blocks ─────────────────────────────────────────── */
+.plan-block {
+    background: linear-gradient(135deg, #1a1a35 0%, #222240 100%);
+    border: 1px solid rgba(255,255,255,0.07);
+    border-radius: 14px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1rem;
+}
+.plan-block-title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+.plan-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    font-size: 0.92rem;
+    color: #cbd5e1;
+}
+.plan-item:last-child { border-bottom: none; }
+
+/* ── Warning Box ─────────────────────────────────────────── */
+.warning-box {
+    background: rgba(255,75,75,0.08);
+    border: 1px solid rgba(255,75,75,0.25);
+    border-radius: 12px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 0.6rem;
+    color: #fca5a5;
+    font-size: 0.9rem;
+}
+
+/* ── Recommendation Box ──────────────────────────────────── */
+.rec-box {
+    background: rgba(59,130,246,0.08);
+    border: 1px solid rgba(59,130,246,0.25);
+    border-radius: 12px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 0.6rem;
+    color: #93c5fd;
+    font-size: 0.9rem;
+}
+
+/* ── Overload Banner ─────────────────────────────────────── */
+.overload-high {
+    background: rgba(255,75,75,0.12);
+    border: 1px solid rgba(255,75,75,0.35);
+    border-radius: 14px;
+    padding: 1rem 1.4rem;
+    color: #fca5a5;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+.overload-medium {
+    background: rgba(255,165,0,0.12);
+    border: 1px solid rgba(255,165,0,0.35);
+    border-radius: 14px;
+    padding: 1rem 1.4rem;
+    color: #fed7aa;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+.overload-low {
+    background: rgba(33,197,93,0.12);
+    border: 1px solid rgba(33,197,93,0.35);
+    border-radius: 14px;
+    padding: 1rem 1.4rem;
+    color: #86efac;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+/* ── Input area styling ──────────────────────────────────── */
+.stTextArea textarea {
+    background: rgba(30,30,60,0.8) !important;
+    border: 1px solid rgba(167,139,250,0.3) !important;
+    border-radius: 12px !important;
+    color: #e2e8f0 !important;
+    font-size: 0.95rem !important;
+}
+.stTextArea textarea:focus {
+    border-color: rgba(167,139,250,0.7) !important;
+    box-shadow: 0 0 0 2px rgba(167,139,250,0.15) !important;
+}
+
+/* ── Buttons ─────────────────────────────────────────────── */
+.stButton button {
+    background: linear-gradient(135deg, #667eea, #764ba2) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+    padding: 0.55rem 1.5rem !important;
+    transition: all 0.2s ease !important;
+    letter-spacing: 0.3px !important;
+}
+.stButton button:hover {
+    opacity: 0.9 !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 4px 16px rgba(102,126,234,0.4) !important;
+}
+
+/* ── Sidebar ─────────────────────────────────────────────── */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #0f0f1a 0%, #1a1a2e 100%) !important;
+    border-right: 1px solid rgba(255,255,255,0.07) !important;
+}
+[data-testid="stSidebar"] * {
+    color: #e2e8f0 !important;
+}
+
+/* ── Selectbox ───────────────────────────────────────────── */
+.stSelectbox > div > div {
+    background: rgba(30,30,60,0.8) !important;
+    border: 1px solid rgba(167,139,250,0.3) !important;
+    border-radius: 10px !important;
+    color: #e2e8f0 !important;
+}
+
+/* ── Divider ─────────────────────────────────────────────── */
+hr {
+    border-color: rgba(255,255,255,0.08) !important;
+    margin: 1.5rem 0 !important;
+}
+
+/* ── Tabs ────────────────────────────────────────────────── */
+.stTabs [data-baseweb="tab-list"] {
+    background: rgba(30,30,60,0.5);
+    border-radius: 12px;
+    gap: 4px;
+    padding: 4px;
+}
+.stTabs [data-baseweb="tab"] {
+    background: transparent;
+    border-radius: 10px;
+    color: #94a3b8;
+    font-weight: 500;
+}
+.stTabs [aria-selected="true"] {
+    background: linear-gradient(135deg, #667eea, #764ba2) !important;
+    color: white !important;
+}

@@ -1,0 +1,130 @@
+THE EISENHOWER MATRIX
+The Eisenhower Matrix divides tasks into four quadrants based on urgency and importance.
+Quadrant 1: Urgent and Important - Do these tasks immediately. Examples include crises, deadlines, and emergencies.
+Quadrant 2: Not Urgent but Important - Schedule these tasks. These are long-term goals, planning, and development activities.
+Quadrant 3: Urgent but Not Important - Delegate these tasks if possible. These are interruptions and requests from others.
+Quadrant 4: Not Urgent and Not Important - Eliminate or minimize these tasks. These are time wasters and distractions.
+The key insight is that most people spend too much time in Quadrant 1 and 3, reacting to urgency rather than focusing on importance.
+
+TIME BLOCKING
+Time blocking means dedicating specific blocks of time to specific tasks or categories of work.
+Benefits of time blocking include reduced context switching, better focus, realistic scheduling, and reduced decision fatigue.
+How to time block: Identify your most important tasks. Assign each task a specific time window. Protect these blocks like appointments. Review and adjust daily.
+Deep work blocks should be 90 to 120 minutes with no interruptions. Shallow tasks can be batched into shorter blocks.
+
+DEEP WORK PRINCIPLES
+Deep work means performing cognitively demanding tasks with full concentration and no distractions.
+Deep work produces the most valuable output and builds rare skills quickly.
+Rules for deep work: Schedule it in advance. Choose a consistent location. Set a clear finish time. Have a shutdown ritual. Remove all digital distractions.
+The typical person can sustain about 4 hours of deep work per day. Beginners should start with 1 to 2 hours.
+
+TASK BATCHING
+Task batching means grouping similar tasks together to reduce cognitive switching costs.
+Examples of batching: Reply to all emails at 9am and 4pm only. Make all phone calls in one block. Do all creative work in the morning. Do all administrative work in the afternoon.
+Batching reduces startup cost of each task and improves momentum and flow.
+
+EXAM PREPARATION STRATEGIES
+Effective exam preparation requires reverse planning from the exam date.
+Steps: Identify exam date. List all topics to cover. Estimate hours needed per topic. Divide across available days. Add buffer days for review.
+Prioritize topics by weight in the exam. High-weight topics deserve more time.
+Active recall beats passive reading. Use flashcards, practice tests, and self-quizzing.
+Spaced repetition means reviewing material at increasing intervals to strengthen memory.
+Avoid cramming. Distributed practice over many sessions is far more effective.
+During exam week: reduce new learning and focus on review and practice.
+
+ASSIGNMENT PLANNING LOGIC
+For any assignment, break the work into phases: research, outline, draft, revise, submit.
+Start the assignment the day it is assigned, even for just 10 minutes. This reduces procrastination and activates subconscious processing.
+Work backwards from the deadline. If deadline is Friday, aim to finish by Wednesday to allow revision.
+If the assignment requires research, allocate at least 30% of total time to research.
+Always leave buffer time for unexpected issues like technical problems or missing information.
+
+INTERVIEW PREPARATION SEQUENCING
+Interview preparation should be sequenced in this order:
+1. Research the company and role thoroughly.
+2. Review your resume and prepare stories for each point.
+3. Practice common behavioral questions using STAR format.
+4. Prepare technical or role-specific content.
+5. Do mock interviews or out-loud practice.
+6. Prepare your questions for the interviewer.
+7. Plan logistics: outfit, route, timing.
+Complete company research first because it informs all other preparation.
+Do mock interviews last when you have the content ready to practice.
+
+BURNOUT AND OVERLOAD SIGNALS
+Signs of cognitive overload: difficulty concentrating, forgetting simple things, feeling overwhelmed by normal tasks.
+Signs of schedule overload: more tasks than available hours, multiple deadlines on same day, no buffer time, no breaks.
+Prevention strategies: Limit to 3 major tasks per day. Include transition time between tasks. Build in at least one rest block. Say no to non-essential additions.
+When overloaded, first step is triage: identify what can be dropped, delegated, or delayed without major consequence.
+
+DEADLINE TRIAGE STRATEGIES
+When multiple deadlines compete, apply this triage logic:
+First, identify hard deadlines (external, fixed, consequences if missed) versus soft deadlines (self-imposed or flexible).
+Second, identify dependencies: which tasks block other tasks?
+Third, identify reversibility: can a deadline be extended by asking? If yes, it becomes lower priority.
+Hard deadlines with high consequences must be treated as Quadrant 1 regardless of how they feel.
+Tasks with downstream dependencies should be moved up in priority to unblock other work.
+
+PROCRASTINATION REDUCTION TACTICS
+The two-minute rule: if a task takes less than two minutes, do it immediately instead of scheduling it.
+Implementation intentions: plan exactly when, where, and how you will do a task. Reduces decision overhead at execution time.
+Temptation bundling: pair unpleasant tasks with enjoyable activities.
+Make the next action specific and physical. Not "work on project" but "open file and write first paragraph."
+Reduce friction: keep tools ready, workspace prepared, and context loaded before starting.
+
+EXECUTION PRIORITIZATION RULES
+Rule 1: Do the most important task first, before checking email or messages.
+Rule 2: Never end a work session without deciding what the first task of the next session will be.
+Rule 3: Single-task one item to completion before starting the next.
+Rule 4: Protect deep work hours. Respond to messages in batches.
+Rule 5: Review tomorrow's plan tonight so you wake up with a clear agenda.
+Rule 6: When in doubt about what to do next, choose the task with the earliest real deadline.
+Rule 7: Incomplete tasks take up mental space. Close open loops by either doing, delegating, or deferring with a date.
+
+PRIORITY SCORING LOGIC
+When scoring task priority, consider these factors:
+Deadline proximity: tasks due today or tomorrow score highest.
+Consequence of delay: missing some deadlines has high cost (failed exam, missed job opportunity) while others have low cost.
+Effort versus time available: a high-effort task needs to start early even if deadline is not today.
+Dependency: tasks that block other tasks should be elevated regardless of their own deadline.
+External dependency: tasks that require other people to respond should be started first because of wait time.
+Urgency is not the same as importance. Urgency is time pressure. Importance is long-term value.
+
+STUDENT PRODUCTIVITY FRAMEWORK
+Students should plan their week every Sunday evening.
+Categorize all tasks by subject and type: lecture review, assignment, reading, exam prep.
+Prioritize assignments with hard deadlines above readings and reviews.
+Study difficult subjects when energy is highest, usually morning.
+Use Pomodoro technique: 25 minutes focus, 5 minutes break.
+Never skip sleep to study. Sleep consolidates memory. A rested brain learns faster.
+Space study sessions across days rather than cramming in one long session.
+
+WORK MODE PRODUCTIVITY
+In work mode, start each day by reviewing email only after completing the first priority task.
+Use calendar blocking for meetings and deep work.
+After each meeting, immediately capture action items before moving on.
+At end of day, do a 5-minute shutdown ritual: close open loops, write tomorrow's first task, clear desk.
+Protect the first 90 minutes of the workday as sacred focus time.
+Respond to messages in batches: once at morning, once at afternoon.
+
+REALISTIC DAILY PLANNING
+A realistic workday has capacity for 4 to 6 hours of actual focused work.
+Meetings, breaks, transitions, and unexpected issues consume 2 to 4 hours of the typical 8-hour workday.
+Never plan more than 3 high-effort tasks in one day.
+Always include buffer time of at least 30 minutes for unexpected issues.
+Plan for energy, not just time. Morning is for complex tasks. Afternoon for meetings and reviews. Evening for light tasks.
+
+OVERLOAD BALANCING TACTICS
+When you have too many tasks for the available time:
+Step 1: Separate hard deadlines from soft deadlines.
+Step 2: Identify the 3 most critical tasks that must be done today.
+Step 3: Move all others to tomorrow or later in the week.
+Step 4: If deadline cannot be moved, look for tasks to drop or delegate.
+Step 5: Communicate early if a deadline is at risk. Do not wait until the last moment.
+Trying to do everything when overloaded leads to everything being done poorly.
+
+PERSONAL PRODUCTIVITY FUNDAMENTALS
+Physical tasks like grocery shopping and errands should be batched geographically or by location.
+Administrative tasks like renewals, forms, and appointments should be handled in a dedicated block once a week.
+Personal wellbeing tasks like exercise and rest are not optional. They enable all other tasks.
+A daily planning habit of 10 minutes each morning or evening compounds significantly over time.
