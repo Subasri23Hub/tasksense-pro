@@ -89,3 +89,16 @@ Paste messy notes → get a structured, prioritized execution plan.
 - Gmail integration
 - Task history tracking
 - Mobile UI optimization
+
+---
+
+📄 License
+MIT License — feel free to use, modify, and distribute.
+
+---
+
+🙌 Acknowledgements
+LangChain — for the powerful chaining framework
+Google AI Studio — for the Gemini API
+Streamlit — for the elegant UI framework
+
