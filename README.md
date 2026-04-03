@@ -78,13 +78,13 @@ tasksense_pro/
 
 ---
 
-💡 Use Case
+## Use Case
 
 Paste messy notes → get a structured, prioritized execution plan.
 
 ---
 
-🌟 Future Improvements
+## Future Improvements
 - Calendar integration
 - Gmail integration
 - Task history tracking
@@ -92,12 +92,12 @@ Paste messy notes → get a structured, prioritized execution plan.
 
 ---
 
-📄 License
+## License
 MIT License — feel free to use, modify, and distribute.
 
 ---
 
-🙌 Acknowledgements
+## Acknowledgements
 LangChain — for the powerful chaining framework
 Google AI Studio — for the Gemini API
 Streamlit — for the elegant UI framework
