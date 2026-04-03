@@ -75,3 +75,15 @@ tasksense_pro/
 └── assets/
     └── styles.css       # Custom CSS
 ```
+
+💡 Use Case
+
+Paste messy notes → get a structured, prioritized execution plan.
+
+---
+
+🌟 Future Improvements
+Calendar integration
+Gmail integration
+Task history tracking
+Mobile UI optimization
