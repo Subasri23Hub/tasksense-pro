@@ -83,7 +83,7 @@ Paste messy notes → get a structured, prioritized execution plan.
 ---
 
 🌟 Future Improvements
-Calendar integration
-Gmail integration
-Task history tracking
-Mobile UI optimization
+- Calendar integration
+- Gmail integration
+- Task history tracking
+- Mobile UI optimization
