@@ -76,6 +76,8 @@ tasksense_pro/
     └── styles.css       # Custom CSS
 ```
 
+---
+
 💡 Use Case
 
 Paste messy notes → get a structured, prioritized execution plan.
