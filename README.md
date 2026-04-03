@@ -3,7 +3,7 @@
 **AI-Powered Planning & Prioritization Assistant**
 
 TaskSense Pro converts your messy, unorganized notes and task dumps into structured, deadline-aware, prioritized execution plans.
-
+Try it out: https://tasksense-pro-swsdpwfepnw8a4g3uqp6vg.streamlit.app/
 ---
 
 ## Features
